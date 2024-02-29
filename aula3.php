@@ -8,4 +8,6 @@ echo (date("D"));
 echo("<br>");
 echo (date("N"));
 
+echo ("tchais")
+
 ?>
